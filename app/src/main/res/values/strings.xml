@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Crunchyroll</string>
+
+    <string name="Episode1">1 Episode</string>
+    <string name="Episode2">2 Episode</string>
+    <string name="Name1">ONE PIECE</string>
+    <string name="Name2">YOUR NAME</string>
+    <string name="Name3">DEATH NOTE</string>
+    <string name="Name4">HAIYKYUU</string>
+    <string name="Name5">DRAGON BALL</string>
+    <string name="Name6">PARASYTE</string>
+    <string name="Name7">STEINS;GATE</string>
+    <string name="Name8">ATTACK ON TITAN</string>
+    <string name="Name9">JOJO</string>
+    <string name="Name10">ONE PUNCH MAN</string>
+    <string name="Name11">SILENT VOICE</string>
+    <string name="Name12">SPYxFAMILY</string>
+    <string name="Name13">NARUTO</string>
+    <string name="Name14">FUTURE DIARY</string>
+
+    <string name="MyList">MyList</string>
+    <string name="Watchlist">WATCHLIST</string>
+    <string name="History">HISTORY</string>
+    <string name="Offline">OFFLINE</string>
+    <string name="title_activity_my_list">MyList</string>
+    <string name="title_activity_simulcast">Simulcast</string>
+    <string name="title_activity_browse">Browse</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="title_activity_login_screen.kt">LoginScreen.kt</string>
+
+</resources>
